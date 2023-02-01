@@ -17,6 +17,18 @@ To get a local copy up and running follow these simple example steps.
 npm install
 ```
 
+To build a webpack bundle file,run
+
+```js
+npm run build
+```
+
+If you want to build and run the local server, run
+
+```js
+npm start
+```
+
 ## Authors <a name="authors"></a>
 
 👤 **Elhama Tokhi**
